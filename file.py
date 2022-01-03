@@ -8,11 +8,9 @@
 # open terminal and pass  python file.py and argumnts
 
 
-import sys
-a= sys.argv[1]
-
 # import libraries
 import pandas as pd
+import sys
 
 # inter the paths of the datasets 
 path_df = sys.argv[1]
